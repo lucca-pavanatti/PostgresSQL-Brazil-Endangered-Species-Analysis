@@ -1,5 +1,3 @@
-# Relatório MC536
-
 **Alícia Gonçalves Vieira**
 **Lucca Pavanatti Duarte**
 
